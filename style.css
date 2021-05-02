@@ -1,0 +1,14 @@
+img {
+  border: 20px solid;
+    height: 200px;
+    width: 200px;
+}
+
+div{
+   border: 20px solid;
+    font-family: 'Chicle', cursive;
+}
+kbd{
+  font-size: large;
+    text-align: center;
+}
